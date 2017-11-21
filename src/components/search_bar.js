@@ -1,9 +1,5 @@
 import React from "react";
 
-// functional component or Statless
-// const SearchBar = () => {
-//   return <input />
-// }
 
 class SearchBar extends React.Component {
   constructor(props){
